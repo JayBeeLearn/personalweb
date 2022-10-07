@@ -1,0 +1,35 @@
+.images {
+    display: flex;
+    margin: 50px auto;
+    width: 200px;
+}
+.image {
+    /* border: 2px solid black; */
+    border-radius: 50%;
+    /* align-items: center; */
+}
+
+li.contact{
+    list-style-type: none;
+}
+
+.bold{
+    font-size: larger;
+    font-weight: bold;
+}
+
+li{
+    list-style-type: square;
+}
+
+.work{
+    background-color: rgb(237, 255, 249);
+    box-shadow: 4px 4px 8px rgb(118, 105, 255);
+}
+
+.school{
+    margin: 3px;
+    padding: 2px;
+    background-color: rgb(209, 249, 245);
+    box-shadow: 4px 4px 8px rgb(105, 250, 255);
+}
