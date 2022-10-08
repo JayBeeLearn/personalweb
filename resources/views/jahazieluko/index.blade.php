@@ -145,7 +145,7 @@
 
                      <tr>
                        <td>2</td>
-                        <td><a href="http://javascript.netlify.com" target="_BLANK">JavaScript Playground</a></td>
+                        <td><a href="http://javascript-play.netlify.com" target="_BLANK">JavaScript Playground</a></td>
                     </tr>
 
                      <tr>
