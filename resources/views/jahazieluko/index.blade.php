@@ -264,7 +264,10 @@
     <footer >
        <div class="container mt-4 text-center">
         <a href="#contact" class="btn btn-primary"> Contact Me</a>
-         {{-- <div class="container text-center mt-4">
+
+         
+
+        {{-- <div class="container text-center mt-4">
             <button id="downloadBtn" class="btn btn-warning" onclick="downloadResume()">Download A Copy of Resumé</button>
         </div> --}}
        </div>
